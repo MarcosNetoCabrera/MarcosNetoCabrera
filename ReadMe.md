@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi,<br>Meu nome é marcos neto, sou estudante de engenharia da computação na UFAM,<br>tenho interesse e experiência na área de visão computacional e machine learning. 
+Hi,<br>Meu nome é marcos neto, sou estudante de engenharia da computação na UFAM,<br>tenho interesse na área de visão computacional e machine learning. 
 
 
 # 💻 Tech Stack:
